@@ -1,0 +1,14 @@
+
+body {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: linear-gradient(to bottom, #505e87, #0c0e30);
+color: white;
+}
+
